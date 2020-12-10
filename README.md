@@ -23,3 +23,6 @@ Project files, including .sln file, should be put in `D:\4T\desktop\x86 asm fina
 
 Cannot build. Possible cause of failure:
 > Cannot use old OpenGL library because [backward binary compatibility issue](https://docs.microsoft.com/en-us/cpp/porting/overview-of-potential-upgrade-issues-visual-cpp?view=vs-2019) in Visual C++ and `legacy_stdio_definitions.lib` doesn't solve the problem.
+
+## Note
+Copyrighted content removed.
